@@ -1,0 +1,15 @@
+{
+  "name": "binaryGap",
+  "version": "1.0.0",
+  "description": "Find longest sequence of zeros in binary representation of an integer.",
+  "main": "index.js",
+  "author": "softwaredeveloptam <39637317+softwaredeveloptam@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.0"
+  },
+  "scripts": {
+    "test": "mocha spec"
+  }
+}
